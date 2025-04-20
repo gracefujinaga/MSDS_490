@@ -1,7 +1,11 @@
 # MSDS_490
 Recommender Systems
+
+# Assignment 3
+Please go to the assignment_3 folder and then find the relevant code and readme for assignment 3. 
+
 # Assignment 2
-Please go to readme_assignment2.md for the relevant information for assignment 2
+Please go to the assignment_2 folder and then find the relevant code and readme for assignment 2. 
 
 # Assignment 1
 Whether in your previous or current employment (or even with a future employer), answer the following questions:
