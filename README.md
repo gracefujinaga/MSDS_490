@@ -1,6 +1,9 @@
 # MSDS_490
 Recommender Systems
 
+# Assignment 4
+Please go to the assignment_4 folder and then find the relevant code and readme for assignment 4. 
+
 # Assignment 3
 Please go to the assignment_3 folder and then find the relevant code and readme for assignment 3. 
 
