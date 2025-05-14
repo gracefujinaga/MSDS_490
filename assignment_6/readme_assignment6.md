@@ -12,7 +12,7 @@ In theory, hybrid filtering should outperform pure collaborative filtering or pu
 
 #### Given the dataset we experiment using ratings and reviews from the musical instrument category of a large eCommerce retailer, what other features would have helped your model perform better?
 
-Features like instrument family, location, and age group could help with the collaborative filtering. Additionally, the time of some items/reviews would be helpful. For example, if someone bought a tuba recently, they are probably also looking for a tuba case. However, 3 years later, they likely are not looking for another tuba case and the review or purchase of the tuba is less relevant to the recommender system. Some sort of feedback on the filtering would also be helpful. Obviously this is the case with all recommender systems, but using A/B testing to decide on the right model weights or features would be very helpful. 
+Features like instrument family, location, and age group could help with the content based  filtering. Additionally, the time of some items/reviews would be helpful. For example, if someone bought a tuba recently, they are probably also looking for a tuba case. However, 3 years later, they likely are not looking for another tuba case and the review or purchase of the tuba is less relevant to the recommender system. Some sort of feedback on the filtering would also be helpful. Obviously this is the case with all recommender systems, but using A/B testing to decide on the right model weights or features would be very helpful. 
 
 ## References
 
