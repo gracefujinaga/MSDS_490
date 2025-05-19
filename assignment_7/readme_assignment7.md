@@ -3,8 +3,10 @@
 
 ## Questions
 
-Results
+Results:
+
 ![Figure 1](/Images/results_assign_7.png)
+
 *Table 1. Results from different LTR algorithms on the MovieLens Dataset*
 
 #### Which of the three LTR algorithms had the highest accuracy? Why?
