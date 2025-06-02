@@ -34,7 +34,7 @@ Overall, the DLRM outperforms the GR model across all metrics. While the GR mode
 
 ## References
 
-Jiaqi Zhai, Lucy Liao, Xing Liu, Yueming Wang, Rui Li, Xuan Cao, Leon Gao, Zhaojie Gong, Fangda Gu, Michael He, Yinghai Lu, Yu Shi. Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative RecommendationsLinks to an external site.. Published: Mon, 6 May 2024 02:05:45 UTC
+Zhai, J., Liao, L., etal. (2024). *Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations*  (arXiv:2402.17152v3). arXiv. https://doi.org/10.48550/arXiv.2402.17152
 
 OpenAI. 2025. ChatGPT (June 1 version). https://chat.openai.com/. Understanding the facebook research, adjusting the pytorch model from assignment 8, syntax, error messages, fixing the DataLoader, interactive documentaiton help.
 
