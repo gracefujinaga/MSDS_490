@@ -1,5 +1,7 @@
 
-# Assignment 8 README
+# Assignment 10 README
+
+Note: I ended up implementing a model that just embedded the userid and movieid. Then, I realized I should probably take advantage of the additional user data (age, job, gender) and movie data (genres). I ultimately ended up with two different models. I know that even small differences in performance can result in millions of dollars, but I was surprised with how similar the metrics were for both models.
 
 ## Questions
 
